@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [ solution URL ](https://github.com/miteshp98/faq-accordion-main)
-- Live Site URL: [ live site URL ](https://your-live-site-url.com)
+- Live Site URL: [ live site URL ](https://miteshp98.github.io/faq-accordion-main/)
 
 ## My process
 
