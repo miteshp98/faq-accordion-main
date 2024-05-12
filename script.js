@@ -10,8 +10,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
       answer.classList.toggle("hidden");
       icon.src = answer.classList.contains("hidden")
-        ? "//assets/images/icon-plus.svg"
-        : "//assets/images/icon-minus.svg";
+        ? "assets/images/icon-plus.svg"
+        : "assets/images/icon-minus.svg";
     });
   });
 });
